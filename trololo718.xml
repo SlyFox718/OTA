@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <bacon>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161216-kenzo</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161217-kenzo</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://185.123.15.250/4pda/ResurrectionRemix-N-v5.8.0-20161216-kenzo.zip</RomUrl>
+                description="Download ResurrectionRemix builds">http://185.123.15.250/4pda/ResurrectionRemix-N-v5.8.0-20161217-kenzo.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
