@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">write rom link here</RomUrl>
+                description="Download ResurrectionRemix builds">http://185.123.15.250/4pda/ResurrectionRemix-N-v5.8.0-20161216-kenzo.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
