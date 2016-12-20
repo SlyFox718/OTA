@@ -7,7 +7,7 @@
 # * Multiple devices can be added in the xml file
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 #
-ota_url=https://github.com/SlyFox718/OTA/blob/cm-14.1/trololo718.xml
+ota_url=https://raw.githubusercontent.com/SlyFox718/OTA/cm-14.1/trololo718.xml
 release_type=Stable
 device_name=ro.rr.device
  
