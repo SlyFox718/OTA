@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>RR-N-v5.8.0-20161222-kenzo-UNOFFICIAL</Filename>
+            <Filename>RR-N-v5.8.0-20161225-kenzo-unofficial</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">http://185.123.15.250/4pda/RR-N-v5.8.0-20161222-kenzo-UNOFFICIAL.zip</RomUrl>
+                title="Прошивка"
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://185.123.15.250/4pda/RR-N-v5.8.0-20161225-kenzo-unofficial.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
-                title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                title="Список изменений"
+                description="Посмотреть список изменений">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
               id="open_gapps"
-            	title="Open Gapps"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	title="Open GApps"
+            	description="Загрузить последние Open GApps">http://opengapps.org</OpenGappsUrl>
             </kenzo>
      </Stable>
 </SlimOTA>
