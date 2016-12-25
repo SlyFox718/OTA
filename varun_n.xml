@@ -2,15 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <bacon>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-bacon</Filename>
+            <Filename>RR-N-v5.8.0-20161223-bacon-official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/bacon/Nougat/ResurrectionRemix-N-v5.8.0-20161212</RomUrl>
-	     <Rom2Url
-                id="rom2"
-                title="Alternate Link"
-                description="Alternate link to download builds">https://www.androidfilehost.com/?fid=745425885120693046</Rom2Url>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/bacon/Nougat/RR-N-v5.8.0-20161223-bacon-official.zip</RomUrl>
               <Firmware1Url
                 id="firmware1"
                 title="Recommended Firmware"
@@ -31,11 +27,11 @@
     </Stable>
         <Stable>
         <i9300>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161209-i9300</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161216-i9300</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/bacon/Nougat/ResurrectionRemix-N-v5.8.0-20161209-i9300.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/bacon/Nougat/ResurrectionRemix-N-v5.8.0-20161216-i9300.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -66,11 +62,11 @@
     </Stable>
         <Stable>
         <d802>
-            <Filename>ResurrectionRemix-M-v5.8.0-20161128-d802.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161223-d802-official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/d802/Nougat/ResurrectionRemix-N-v5.8.0-20161128-d802.zip</RomUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/d802/Nougat/RR-N-v5.8.0-20161223-d802-official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -174,15 +170,11 @@
     </Stable>
      <Stable>
         <angler>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-angler.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161223-angler-official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/angler/Nougat/ResurrectionRemix-N-v5.8.0-20161212-angler.zip</RomUrl>
-            <AlternateLinkUrl
-                id="alternate"
-                title="Alternate Link"
-                description="Alternate Link to Download Builds">https://www.androidfilehost.com/?fid=745425885120693040</AlternateLinkUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/angler/Nougat/RR-N-v5.8.0-20161223-angler-official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
