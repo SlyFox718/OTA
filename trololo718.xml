@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://185.123.15.250/4pda/RR-N-v5.8.0-20161228-kenzo-Xmas.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://185.123.15.250/RR/RR-N-v5.8.0-20161228-kenzo-Xmas.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
