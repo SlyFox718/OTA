@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>RR-N-v5.8.0-20161228-kenzo-Xmas</Filename>
+            <Filename>RR-N-v5.8.0-20161229-kenzo-Xmas</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://185.123.15.250/RR/RR-N-v5.8.0-20161228-kenzo-Xmas.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://185.123.15.250/RR/RR-N-v5.8.0-20161229-kenzo-Xmas.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
