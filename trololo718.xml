@@ -15,6 +15,10 @@
               id="open_gapps"
             	title="Open GApps"
             	description="Загрузить последние Open GApps">http://opengapps.org</OpenGappsUrl>
+            <Post4pdaUrl
+              id="post_4PDA"
+                title="Пост с прошивкой на 4PDA"
+                description="Информация о прошивке и т.д">http://4pda.ru/forum/index.php?showtopic=737235&st=25720#entry55804555</Post4pdaUrl>
             </kenzo>
      </Stable>
 </SlimOTA>
