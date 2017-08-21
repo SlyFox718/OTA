@@ -25,7 +25,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
-                description="Посмотреть список изменений">http://185.123.15.250//RR/CHANGELOG.mkdn</ChangelogUrl>
+                description="Посмотреть список изменений">http://185.123.15.250/capricorn/RR/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
             	title="Open GApps"
