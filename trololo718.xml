@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>RR-N-v5.8.3-20170826-kenzo-Unofficial</Filename>
+            <Filename>RR-N-v5.8.3-20170905-kenzo-Final</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212:8000/kenzo/RR/RR-N-v5.8.4-20170826-kenzo-Unofficial.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212:8000/kenzo/RR/RR-N-v5.8.4-20170905-kenzo-Final.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
@@ -17,11 +17,11 @@
             	description="Загрузить последние Open GApps">http://opengapps.org</OpenGappsUrl>
             </kenzo>
         <capricorn>
-            <Filename>RR-N-v5.8.3-20170831-capricorn-Unofficial</Filename>
+            <Filename>RR-N-v5.8.4-20170905-capricorn-Final</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212:8000/capricorn/RR/RR-N-v5.8.3-20170831-capricorn-Unofficial.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212:8000/capricorn/RR/RR-N-v5.8.4-20170905-capricorn-Final.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
