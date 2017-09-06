@@ -6,11 +6,11 @@
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212:8000/kenzo/RR/RR-N-v5.8.4-20170905-kenzo-Final.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212/kenzo/RR/RR-N-v5.8.4-20170905-kenzo-Final.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
-                description="Посмотреть список изменений">http://178.170.168.212:8000/kenzo/RR/CHANGELOG.mkdn</ChangelogUrl>
+                description="Посмотреть список изменений">http://178.170.168.212/kenzo/RR/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
             	title="Open GApps"
@@ -21,11 +21,11 @@
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212:8000/capricorn/RR/RR-N-v5.8.4-20170905-capricorn-Final.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212/capricorn/RR/RR-N-v5.8.4-20170905-capricorn-Final.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
-                description="Посмотреть список изменений">http://178.170.168.212:8000/capricorn/RR/CHANGELOG.mkdn</ChangelogUrl>
+                description="Посмотреть список изменений">http://178.170.168.212/capricorn/RR/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
             	title="Open GApps"
