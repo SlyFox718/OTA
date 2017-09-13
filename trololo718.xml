@@ -17,7 +17,7 @@
             	description="Загрузить последние Open GApps">http://opengapps.org</OpenGappsUrl>
             </kenzo>
         <capricorn>
-            <Filename>RR-N-v5.8.4-20170905-capricorn-Final</Filename>
+            <Filename>RR-N-v5.8.4-20170913-capricorn-Final</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
