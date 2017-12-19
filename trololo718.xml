@@ -17,11 +17,11 @@
             	description="Загрузить последние Open GApps">http://opengapps.org</OpenGappsUrl>
             </kenzo>
         <capricorn>
-            <Filename>RR-N-v5.8.5-20171205-capricorn-Final</Filename>
+            <Filename>RR-N-v5.8.5-20171219-capricorn-Final</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212/capricorn/RR/RR-N-v5.8.5-20171205-capricorn-Final.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://178.170.168.212/capricorn/RR/RR-N-v5.8.5-20171219-capricorn-Final.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
