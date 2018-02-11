@@ -17,19 +17,19 @@
             	description="Загрузить последние Open GApps">http://opengapps.org</OpenGappsUrl>
             </kenzo>
         <capricorn>
-            <Filename>RR-N-v5.8.5-20180118-capricorn-Final</Filename>
+            <Filename>RR-O-v6.0.0-20180211-capricorn-Unofficial</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Загрузить последнюю сборку RR от TrOLOLO718">http://185.190.183.11/capricorn/RR/RR-N-v5.8.5-20180118-capricorn-Final.zip</RomUrl>
+                description="Загрузить последнюю сборку RR от TrOLOLO718">http://185.190.183.11/capricorn/oreo/RR/RR-O-v6.0.0-20180211-capricorn-Unofficial.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
-                description="Посмотреть список изменений">http://185.190.183.11/capricorn/RR/CHANGELOG.mkdn</ChangelogUrl>
+                description="Посмотреть список изменений">http://185.190.183.11/capricorn/oreo/RR/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
             	title="Open GApps"
-            	description="Загрузить последние Open GApps">http://opengapps.org</OpenGappsUrl>
+            	description="Загрузить последние Open GApps">https://builds.nezorfla.me/opengapps/</OpenGappsUrl>
             </capricorn>
      </Stable>
 </SlimOTA>
