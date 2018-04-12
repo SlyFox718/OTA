@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <capricorn>
-            <Filename>RR-O-v6.0.0-201804012-capricorn-Unofficial</Filename>
+            <Filename>RR-O-v6.0.0-20180412-capricorn-Unofficial</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
