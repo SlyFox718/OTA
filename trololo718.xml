@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <capricorn>
-            <Filename>RR-O-v6.2.1-20181003-capricorn-Final</Filename>
+            <Filename>RR-O-v6.2.1-20181211-capricorn-Final</Filename>
             <RomUrl
                 id="rom"
                 title="ROM/Прошивка"
-                description="Download latest build/Загрузить последнюю сборку RR от TrOLOLO718">http://185.190.183.11/capricorn/oreo/RR/RR-O-v6.2.1-20181003-capricorn-Final.zip</RomUrl>
+                description="Download latest build/Загрузить последнюю сборку RR от TrOLOLO718">http://185.190.183.11/capricorn/oreo/RR/RR-O-v6.2.1-20181211-capricorn-Final.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog/Список изменений"
